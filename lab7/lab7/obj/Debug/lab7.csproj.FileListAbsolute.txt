@@ -1,0 +1,7 @@
+E:\VS 2курс\lab7\lab7\bin\Debug\lab7.exe.config
+E:\VS 2курс\lab7\lab7\bin\Debug\lab7.exe
+E:\VS 2курс\lab7\lab7\bin\Debug\lab7.pdb
+E:\VS 2курс\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+E:\VS 2курс\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+E:\VS 2курс\lab7\lab7\obj\Debug\lab7.exe
+E:\VS 2курс\lab7\lab7\obj\Debug\lab7.pdb
